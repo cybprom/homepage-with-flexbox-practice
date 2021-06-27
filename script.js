@@ -1,3 +1,4 @@
+//this was just created when i started js, its nothing just for practice
 /* // alert("This is an error!");
 var x = 15;
 var y = 10;
